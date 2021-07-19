@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Spring 2021: Quantitative Research Intern, High Frequency Trading team at Mengxi Investment.
-* 
+* Spring 2021: Assisitant Advisor, School of the Gifted Young, University of Science and Technology of China.
 
   
 Skills
