@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * 2017-2021, B.S. in Statistics, University of Science and Technology of China(USTC)
+  * Guo Moruo Scholarship
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
